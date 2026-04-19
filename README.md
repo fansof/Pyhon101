@@ -1,4 +1,4 @@
-# Pyhon101
+# Python101
 
 Personal notes for **Introduction to Python**.
 
